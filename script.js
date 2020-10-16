@@ -1,6 +1,6 @@
 class = Calculator {
     constructor (previousOperatorTextElement, currentOperatorTextElement){
-        this.previousOperatorTextElem = previousOperatorTextElem
+        this.previousOperatorTextElement = previousOperatorTextElement
         this.currentOperatorTextElement = currentOperatorTextElement
         this.clear
     }
